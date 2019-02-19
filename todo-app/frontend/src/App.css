@@ -1,0 +1,69 @@
+.App {
+    display: flex;
+    justify-content: center;
+    color: black;
+  }
+  
+  .FormField {
+    margin-bottom: 40px;
+  }
+  
+  .FormField__Input {
+    width: 85%;
+    background-color: transparent;
+    border: none;
+    color: black;
+    outline: none;
+    border-bottom: 1px solid #445366;
+    font-size: 1em;
+    font-weight: 300;
+    padding-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  .FormField__Input::placeholder {
+    color: #616E7F;
+  }
+  
+  .FormField__Button {
+    background-color: #52C4B9;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    padding: 15px 70px;
+    font-size: 100%;
+    font-weight: 500;
+  }
+
+  .FormTitle {
+    color: #707C8B;
+    font-weight: 300;
+    margin-bottom: 50px;
+    margin-top: 200px;
+    font-size: 170%;
+  }
+
+  .Username {
+    color: #707C8B;
+    font-weight: 300;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    font-size: 170%;
+  }
+
+th {
+  background-color: #52C4B9;
+  color: white;
+}
+
+.FormField__Link {
+  color: white;
+  text-decoration: aquamarine;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+
+
+  
